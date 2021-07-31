@@ -1,0 +1,27 @@
+.game {
+    margin: 20px 5px;
+    height: 30px;
+    width: 80px;
+    text-align: center;
+}
+#start {
+    margin: 5px;
+    height: 30px;
+    width: 80px;
+}
+p {
+    margin: 5px;    
+}
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+.container1 , .container2 {
+    margin: 20px;
+}
+.red {
+    background-color: "red";
+}
+.normal {
+    background-color: "red";
+}
